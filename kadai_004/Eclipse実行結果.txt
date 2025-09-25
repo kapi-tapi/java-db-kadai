@@ -1,0 +1,2 @@
+データベース接続成功：com.mysql.cj.jdbc.ConnectionImpl@4e3958e7
+社員テーブルを作成しました：更新レコード数=0
